@@ -1,0 +1,8 @@
+id="phosphor"
+provider="modrinth"
+version="mc1.19.x-0.8.1"
+
+[locale.ru]
+title = "Phosphor"
+description = "Оптимизирует движок освещения"
+
