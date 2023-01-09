@@ -1,8 +1,8 @@
-id="phosphor"
+id="starlight"
 provider="modrinth"
-version="mc1.19.x-0.8.1"
+version="1.1.1+1.19"
 
 [locale.ru]
-title = "Phosphor"
+title = "Starlight"
 description = "Оптимизирует движок освещения"
 
