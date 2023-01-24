@@ -1,7 +1,0 @@
-id="modmenu"
-provider="modrinth"
-version="latest"
-
-#[locale.ru]
-#title = "ModMenu"
-#description = "Добавляет список установленных модов"

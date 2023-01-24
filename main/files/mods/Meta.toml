@@ -1,1 +1,1 @@
-validate = ["zlib-2.5.0_1.19.2.jar", "ZalupaCinema.jar"]
+validate = ["zlib.jar", "ZalupaCinema.jar"]
