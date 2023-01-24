@@ -1,0 +1,6 @@
+id="clickthrough"
+provider="modrinth"
+
+[locale.ru]
+title = "clickthrough"
+description = "Позволит вам открывать сундук нажатием по табличке"

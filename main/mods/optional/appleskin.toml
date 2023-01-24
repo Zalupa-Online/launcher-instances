@@ -1,0 +1,6 @@
+id="appleskin"
+provider="modrinth"
+
+[locale.ru]
+title = "appleskin"
+description = "Улучшения HUD, связанные с едой"

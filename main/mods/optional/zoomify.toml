@@ -1,0 +1,6 @@
+id="zoomify"
+provider="modrinth"
+
+[locale.ru]
+title = "Zoomify"
+description = "Zoom с бесконечными возможностями настройки"

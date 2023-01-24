@@ -1,7 +1,0 @@
-id="lithium"
-provider="modrinth"
-version="mc1.19.2-0.10.4"
-
-[locale.ru]
-title = "Lithium"
-description = "Оптимизирует игровую логику"
